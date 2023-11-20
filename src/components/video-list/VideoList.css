@@ -1,0 +1,43 @@
+section .container {
+    height: 100%;
+    flex-grow: 1;
+    display: flex;
+    flex-direction: column;
+    padding: 2rem 0;
+}
+
+.refresh-btn {
+    width: fit-content;
+    cursor: pointer;
+    margin-bottom: 1.5rem;
+    padding: 0.5rem 1.5rem;
+    font-size: 1rem;
+    color: #9ca3af;
+    background-color: transparent;
+    border: 1px solid #614769;
+    border-radius: 6px;
+}
+
+.video-list {
+    flex-grow: 1;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 1.5rem;
+    text-align: center;
+}
+
+.no-videos {
+    align-self: center;
+    width: 100%;
+    text-align: center;
+    font-size: 1.2rem;
+    color: #f87171;
+}
+
+
+@media screen and (max-width: 500px) {
+   section .container {
+         padding: 2rem;
+    }
+ }
