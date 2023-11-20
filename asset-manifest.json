@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Youtube-Channel-Browser/static/css/main.9aa1c84c.css",
+    "main.js": "/Youtube-Channel-Browser/static/js/main.e1018611.js",
+    "static/media/logo.svg": "/Youtube-Channel-Browser/static/media/logo.43285e6d14aa615ad98fe6ae89092c6c.svg",
+    "static/media/spinner.svg": "/Youtube-Channel-Browser/static/media/spinner.452c1279d65357cd7086447c1d54b342.svg",
+    "static/media/video-play.svg": "/Youtube-Channel-Browser/static/media/video-play.b5ab7648c26223a1633682935811713d.svg",
+    "index.html": "/Youtube-Channel-Browser/index.html",
+    "main.9aa1c84c.css.map": "/Youtube-Channel-Browser/static/css/main.9aa1c84c.css.map",
+    "main.e1018611.js.map": "/Youtube-Channel-Browser/static/js/main.e1018611.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9aa1c84c.css",
+    "static/js/main.e1018611.js"
+  ]
+}
